@@ -1,0 +1,6 @@
+{
+  "name": "SocialPulse",
+  "description": "Generate stunning Imagen 3 visuals and Gemini bilingual captions with hashtags, then preview and post directly to your Facebook Page via Graph API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
